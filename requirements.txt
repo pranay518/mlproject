@@ -2,4 +2,7 @@ pandas
 numpy
 seaborn
 typing
--e .
+scikit-learn
+xgboost
+
+#-e .
